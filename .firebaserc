@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "mi-portfolio-front"
-  }
+    "default": "mi-portfolio-jazz",
+    "\"portfolio-jazz\"": "mi-portfolio-jazz"
+  },
+  "targets": {}
 }

@@ -16,8 +16,8 @@ export class ServicioEducacionService {
 
    
 
-    //http://localhost:8080 'https://portfolio-back-rywe.onrender.com/api/educacion/'
-    private url:string='https://portfolio-back-rywe.onrender.com/api/educacion/';
+    //http://localhost:8080 'https://arg-back.onrender.com
+    private url:string='https://arg-back.onrender.com/api/educacion/';
 
     private obser= new Subject<Estudio[]>();
   

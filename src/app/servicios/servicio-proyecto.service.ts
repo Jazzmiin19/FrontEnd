@@ -13,8 +13,8 @@ export class ServicioProyectoService {
 
     datosProyectos:Proyecto[];
 
-    //'http://localhost:8080/api/proyecto/' 'https://portfolio-back-rywe.onrender.com/api/proyecto/'
-    private url:string='https://portfolio-back-rywe.onrender.com/api/proyecto/';
+    //'http://localhost:8080/api/proyecto/' 'https://arg-back.onrender.comapi/proyecto/'
+    private url:string='https://arg-back.onrender.com/api/proyecto/';
 
 
     

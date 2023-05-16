@@ -20,8 +20,8 @@ export class ServicioExperienciaService {
 
     
    dato:any;
-  // http://localhost:8080 'https://portfolio-back-rywe.onrender.com/api/experiencia/'
-  private url:string='https://portfolio-back-rywe.onrender.com/api/experiencia/';
+  // http://localhost:8080 'https://arg-back.onrender.com/api/experiencia/'
+  private url:string='https://arg-back.onrender.com/api/experiencia/';
 
   private obser= new Subject<Experiencia[]>();
 
