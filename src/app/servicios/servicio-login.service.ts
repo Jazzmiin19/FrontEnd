@@ -21,7 +21,7 @@ export class ServicioLoginService {
     private login$=new BehaviorSubject<boolean>(false);
 
     //'http://localhost:8080/api' "https://arg-back.onrender.com/api/login"
-    private url:string="https://arg-back.onrender.com/api/login"
+    private url:string="https://arg-back.onrender.com/api"
 
 
     constructor(private http:HttpClient){ }

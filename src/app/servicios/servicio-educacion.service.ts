@@ -75,7 +75,7 @@ export class ServicioEducacionService {
 
     agregar(dato:Estudio):Observable<Estudio>{
 
-       return  this.http.post<Estudio>(this.url+ 'nuevaExperencia-Persona/'+'5', dato)
+       return  this.http.post<Estudio>(this.url+ 'nuevaExperencia-Persona/'+'1', dato)
        
             .pipe(
                 

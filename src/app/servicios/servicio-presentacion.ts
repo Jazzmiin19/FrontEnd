@@ -60,7 +60,7 @@ export class ServicioPresentacionService {
      //
      getDatos():Observable<Presentacion> {
       
-           return this.http.get<Presentacion>(this.url + 'verUnaPresentacion/'+'3')
+           return this.http.get<Presentacion>(this.url + 'verUnaPresentacion/'+'1')
 
          /*.subscribe(data=>{
      
